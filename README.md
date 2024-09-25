@@ -56,7 +56,7 @@ cp .env.example .env
 php artisan migrate
 
 
-### Langkah 7: Buat Strogae Untuk Menyimpan Foto Yang di buat di Crud
+### Langkah 7: Buat Storage Untuk Menyimpan Foto Yang di buat di Crud
 
 php artisan storage:link
 
