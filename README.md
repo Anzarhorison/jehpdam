@@ -1,4 +1,4 @@
-# ERD
+# RAD
 ![Screenshot (8)](https://github.com/user-attachments/assets/68e2a049-52ca-41e3-86fd-d1748c0198e1)
 # UML
 ![Screenshot (9)](https://github.com/user-attachments/assets/09d0d8d0-e477-43e0-926c-df1fc376e346)
