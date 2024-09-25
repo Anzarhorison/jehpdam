@@ -1,5 +1,4 @@
-<p align="center"><a![Screenshot (8)](https://github.com/user-attachments/assets/68e2a049-52ca-41e3-86fd-d1748c0198e1)
- href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+![Screenshot (8)](https://github.com/user-attachments/assets/68e2a049-52ca-41e3-86fd-d1748c0198e1)
 ![Screenshot (9)](https://github.com/user-attachments/assets/09d0d8d0-e477-43e0-926c-df1fc376e346)
 
 # 1. Prasyarat 
